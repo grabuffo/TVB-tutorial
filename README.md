@@ -7,3 +7,5 @@ Steps to follow:
  2) Install TVB @ ---> https://github.com/the-virtual-brain/tvb-root
  3) Within environment launch Jupiter lab and tutorial notebook
  4) Run the TVB tutorial notebook
+
+TVB simulator documentation @ --->  https://docs.thevirtualbrain.org/api/tvb.simulator.html
